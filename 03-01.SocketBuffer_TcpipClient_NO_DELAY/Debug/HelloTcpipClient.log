@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  MainTcpipClient.cpp
+C:\Users\PS42 8RC\Desktop\Unity_Projects\WindowsSocketProgramming\03-01.SocketBuffer_TcpipClient_NO_DELAY\MainTcpipClient.cpp(31,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  HelloTcpipClient.vcxproj -> C:\Users\PS42 8RC\Desktop\Unity_Projects\WindowsSocketProgramming\03-01.SocketBuffer_TcpipClient_NO_DELAY\Debug\SocketTcpipClient.exe
